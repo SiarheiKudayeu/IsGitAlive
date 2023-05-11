@@ -5,5 +5,6 @@ public class Class1 {
         System.out.println("homework");
         int x=8;
         System.out.println(x);
+        System.out.println("aavav");
     }
 }
